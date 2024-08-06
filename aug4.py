@@ -64,16 +64,16 @@ else:
 # --------------------------------
 # 2 WAP to find the greatest of 3 number entered by user
 
-# a=int(input("Enter first number : "))
-# b=int(input("Enter sec number : "))
-# c=int(input("Enter third number : "))
+"""a=int(input("Enter first number : "))
+b=int(input("Enter sec number : "))
+c=int(input("Enter third number : "))
 
-# if(a >= b and a>=c):
-#   print("first num is largest", a)
-# elif(b >=c):
-#   print("first num is largest", b)
-# else:
-#   print("first num is largest", c)
+if(a >= b and a>=c):
+  print("first num is largest", a)
+elif(b >=c):
+  print("first num is largest", b)
+else:
+  print("first num is largest", c)"""
 
 
 
