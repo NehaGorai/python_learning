@@ -158,6 +158,6 @@ print(grade.count("A"))"""
 
 #store the above value in a list & sort then from A to D
 
-grade = ["C", "E", "H","A","E","A"]
+"""grade = ["C", "E", "H","A","E","A"]
 grade.sort()
-print(grade)
+print(grade)"""
