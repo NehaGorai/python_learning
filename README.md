@@ -11,3 +11,5 @@
 
 [Day 6](./aug6.py) Dictionary & Set
 
+[Day 7](./aug7.py) Loops
+
