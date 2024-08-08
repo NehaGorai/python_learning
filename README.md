@@ -13,3 +13,6 @@
 
 [Day 7](./aug7.py) Loops
 
+[Day 8](./aug8.py)  Functions & Recursion
+
+
