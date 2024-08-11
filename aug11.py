@@ -133,7 +133,7 @@ stu1.calculatePercentage()
 print(stu1.percentage)"""
 
 
-class Student:
+"""class Student:
     def __init__(self,eng,math,science):
         self.eng=eng
         self.math=math
@@ -152,10 +152,6 @@ print(stu1.percentage)
 
 stu1.math =49
 
-print(stu1.percentage)
+print(stu1.percentage)"""
 
       
-
-
-
-#multiple Inheritance
